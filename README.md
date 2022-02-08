@@ -1,4 +1,4 @@
-# tmpNote
+# Simple notes
 ![screenshot](https://raw.githubusercontent.com/buddax2/tmpNote/master/Resources/screenshot_new.png)
 
 it's a "fork" of [Tyke.app](http://tyke.app) ([@torrez](https://twitter.com/torrez)) but with some improovements:
